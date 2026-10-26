@@ -1,0 +1,7 @@
+venv/ 
+__pycache__/ 
+*.pyc 
+*.db 
+temp.jpg 
+voice_alert.mp3 
+*.pdf
