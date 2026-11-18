@@ -72,13 +72,13 @@ supplypulse-ai/
 ### Setup Instructions
 
 1. **Clone the repository**
-   ```bash
-   git clone [https://github.com/Sindhuja-M-309/supplypulse-ai.git](https://github.com/Sindhuja-M-309/supplypulse-ai.git)
+   ```
+   git clone https://github.com/Sindhuja-M-309/supplypulse-ai.git
    cd supplypulse-ai
    ```
 
 2. **Initialize a virtual environment**
-   ```bash
+   ```
    python -m venv venv
 
    # Windows
@@ -89,7 +89,7 @@ supplypulse-ai/
    ```
 
 3. **Install dependencies**
-   ```bash
+   ```
    pip install -r requirements.txt
    ```
    *Alternatively, install core packages directly:*
