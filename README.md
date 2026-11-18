@@ -129,4 +129,3 @@ supplypulse-ai/
 **Sindhuja M**  
 Department of Artificial Intelligence and Data Science  
 Rajalakshmi Institute of Technology  
-GitHub: [github.com/Sindhuja-M-309](https://github.com/Sindhuja-M-309)
